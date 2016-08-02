@@ -1,2 +1,2 @@
 # hello-world
-No description needed.
+This is the beginning of a long road.
